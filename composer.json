@@ -1,0 +1,21 @@
+{
+    "name": "hpkns/pattern-practice",
+    "description": "skill up",
+    "type": "project",
+    "require": {
+        "phpunit/phpunit": "^5.0"
+    },
+    "license": "hpkns",
+    "authors": [
+        {
+            "name": "dev33",
+            "email": "dev3.convidev@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "PatternPractice\\": ""
+        }
+    },
+    "minimum-stability": "dev"
+}
