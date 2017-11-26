@@ -19,6 +19,5 @@
 
             $wizard->castSpell(new Explosion());
             $this->assertEquals(2, count($wizard->getCastedSpells()));
-
         }
     }
