@@ -5,7 +5,6 @@
 
     class Explosion extends Command
     {
-
         public function __construct() {
             $this->name = 'EXPLOSTION';
         }
