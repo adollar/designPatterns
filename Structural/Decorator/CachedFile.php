@@ -1,9 +1,7 @@
 <?php
 
-    namespace PatternPractice\Structural\Decorator\Test;
+    namespace PatternPractice\Structural\Decorator;
 
-
-    use PatternPractice\Structural\Decorator\File;
 
     class CachedFile
     {
